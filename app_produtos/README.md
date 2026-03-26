@@ -24,3 +24,8 @@ O aplicativo permite gerenciar produtos de forma simples, simulando um cenário 
 Tecnologias
 Flutter
 Dart
+
+
+ScreenShots:
+
+![Lista](/app_produtos/assets/Lista%20Produtos.png) ![Editar](/app_produtos/assets/Editar%20Produtos.png) ![Detalhe](/app_produtos/assets/Detalhe%20Produtos.png)
