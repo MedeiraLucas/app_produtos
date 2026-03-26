@@ -1,30 +1,27 @@
-## Funcionalidades
+📱 App de Produtos
 
-- Listagem de produtos
-- Cadastro de novo produto
-- Tela de detalhes
-- Edição de produto
-- Exclusão de produto
-- Navegação entre telas com Navigator
-- Retorno de dados com Navigator.pop()
+Aplicativo Flutter para gerenciamento de produtos com CRUD completo (Create, Read, Update, Delete)
 
-## Estrutura
+🚀 Sobre o Projeto
 
-```bash
-lib/
-├── main.dart
-├── models/
-│   └── produto.dart
-└── screens/
-    ├── lista_produtos.dart
-    ├── cadastro_produto.dart
-    └── detalhe_produto.dart
-```
+Este projeto foi desenvolvido como prática acadêmica durante o curso de Análise e Desenvolvimento de Sistemas, com foco em:
 
-## Como executar
+Estruturação de aplicações Flutter
+Navegação entre telas
+Manipulação de estado
+Organização de código em camadas
 
-```bash
-flutter pub get
-flutter run
-```
+O aplicativo permite gerenciar produtos de forma simples, simulando um cenário real de sistema.
 
+
+✨ Funcionalidades
+✔️ Listagem de produtos
+✔️ Cadastro de novos produtos
+✔️ Visualização de detalhes
+✔️ Edição de produtos
+✔️ Exclusão de produtos
+✔️ Feedback com SnackBar
+🧠 Tecnologias e Conceitos
+Tecnologias
+Flutter
+Dart
