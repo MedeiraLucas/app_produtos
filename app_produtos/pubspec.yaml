@@ -1,0 +1,15 @@
+name: app_produtos_bonus
+description: App Flutter simples e bonito para cadastro e visualizacao de produtos.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+flutter:
+  uses-material-design: true
