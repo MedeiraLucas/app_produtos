@@ -4,7 +4,6 @@ Aplicativo Flutter para gerenciamento de produtos com CRUD completo (Create, Rea
 
 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido como prática acadêmica durante o curso de Análise e Desenvolvimento de Sistemas, com foco em:
 
 Estruturação de aplicações Flutter
 Navegação entre telas
